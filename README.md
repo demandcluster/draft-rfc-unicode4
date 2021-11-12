@@ -53,3 +53,9 @@ To visualize one 4D character glyph we could use;
 Keyboards and chat rooms will have text art and optional music or bouncing/rotating letters embedded in the messages.
 
 The new keyboard is a drawing board, a latin G keystroke sends a sequence to draw, like G-code 🤔 for letters.
+
+## Credits
+
+	    @Ω仙⁴ ꜊꜊꜊⋇꜏꜏꜏ ⁴ﷲΩ@
+	      ©Δ∞ 仙上主天
+	 בְּרֵאשִׁית :o: יְסוֺד :o: יִשְׂרָאֵל
